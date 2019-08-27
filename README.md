@@ -1,9 +1,9 @@
 Variational Autoencoder in Keras using RStudio
 ================
 Samuel I. Berchuck
-2019-08-24
+2019-08-26
 
-*This document provides supplementary code for the paper "Scalable Modeling of Spatiotemporal Data using the Variational Autoencoder: an Application in Glaucoma".*
+*This document provides supplementary code for the paper "Scalable Modeling of Spatiotemporal Data using the Variational Autoencoder: an Application in Glaucoma",* <https://arxiv.org/abs/1908.09195>.
 
 *Also, see a clinical implementation of the variational autoencoder on bioRxiv by Berchuck et al (2019): "Estimating Rates of Progression and Predicting Future Visual Fields in Glaucoma Using a Deep Variational Autoencoder",* <https://www.biorxiv.org/content/10.1101/652487v1.abstract>.
 
