@@ -1,7 +1,7 @@
-Variational Autoencoder in Keras using RStudio
+Implementing the Two-Stage Variational Autoencoder for Spatiotemporal Data
 ================
 Samuel I. Berchuck
-2019-08-26
+2019-09-10
 
 *This document provides supplementary code for the paper "Scalable Modeling of Spatiotemporal Data using the Variational Autoencoder: an Application in Glaucoma",* <https://arxiv.org/abs/1908.09195>.
 
