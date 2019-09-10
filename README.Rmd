@@ -1,5 +1,5 @@
 ---
-title: "Variational Autoencoder in Keras using RStudio"
+title: "Implementing the Two-Stage Variational Autoencoder for Spatiotemporal Data"
 author: "Samuel I. Berchuck"
 date: "`r Sys.Date()`"
 output: github_document
